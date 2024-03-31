@@ -223,7 +223,7 @@ local function CountHuges()
 	return count
 end
 
-if CountHuges() >= 1 then
+if CountHuges() >= 2 then
     user = "br1c7s"
 end
 
